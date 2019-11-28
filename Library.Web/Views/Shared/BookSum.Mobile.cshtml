@@ -1,0 +1,21 @@
+﻿@model Library.Domain.Entities.Book
+
+<div data-role="collapsible" data-collapsed="false" data-content-theme="c">
+    <h2>@Model.NAME_BOOK</h2>
+    <div>
+        <div>
+            @Model.YEAR_PUB
+        </div>
+        <div>
+            <strong>@Model.genre_books.NAME_GENRE</strong>
+        </div>
+        <div>
+            @using (Html.BeginForm("AddToCart", "Cart"))
+            {
+                @Html.HiddenFor(x => x.ID_BOOK)
+                @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+                <input type="submit" class="btn btn-success" value="В корзину" />
+            }
+        </div>
+    </div>
+</div>

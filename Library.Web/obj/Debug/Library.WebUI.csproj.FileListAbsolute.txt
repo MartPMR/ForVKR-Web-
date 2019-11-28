@@ -1,0 +1,279 @@
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\csc.exe
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\vbc.exe
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Library\DB\Library\Library.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Library\DB\Library\Library.WebUI\bin\Library.WebUI.dll.config
+C:\Library\DB\Library\Library.WebUI\bin\Library.WebUI.dll
+C:\Library\DB\Library\Library.WebUI\bin\Library.WebUI.pdb
+C:\Library\DB\Library\Library.WebUI\bin\EntityFramework.dll
+C:\Library\DB\Library\Library.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Library\DB\Library\Library.WebUI\bin\Library.Domain.dll
+C:\Library\DB\Library\Library.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Library\DB\Library\Library.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Library\DB\Library\Library.WebUI\bin\Moq.dll
+C:\Library\DB\Library\Library.WebUI\bin\Ninject.dll
+C:\Library\DB\Library\Library.WebUI\bin\Ninject.Web.Common.dll
+C:\Library\DB\Library\Library.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Helpers.dll
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Mvc.dll
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Razor.dll
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Webpages.dll
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Library\DB\Library\Library.WebUI\bin\WebActivator.dll
+C:\Library\DB\Library\Library.WebUI\bin\Library.Domain.pdb
+C:\Library\DB\Library\Library.WebUI\bin\EntityFramework.xml
+C:\Library\DB\Library\Library.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Library\DB\Library\Library.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Library\DB\Library\Library.WebUI\bin\Moq.xml
+C:\Library\DB\Library\Library.WebUI\bin\Ninject.pdb
+C:\Library\DB\Library\Library.WebUI\bin\Ninject.xml
+C:\Library\DB\Library\Library.WebUI\bin\Ninject.Web.Common.pdb
+C:\Library\DB\Library\Library.WebUI\bin\Ninject.Web.Common.xml
+C:\Library\DB\Library\Library.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Library\DB\Library\Library.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Razor.xml
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Webpages.xml
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Helpers.xml
+C:\Library\DB\Library\Library.WebUI\bin\System.Web.Mvc.xml
+C:\Library\DB\Library\Library.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Library\DB\Library\Library.WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Library\DB\Library\Library.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Library\DB\Library\Library.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Library\DB\Library\Library.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Library\DB\Library\Library.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Library\DB\Library\Library.WebUI\obj\Debug\Library.WebUI.csprojResolveAssemblyReference.cache
+C:\Library\DB\Library\Library.WebUI\obj\Debug\Library.WebUI.dll
+C:\Library\DB\Library\Library.WebUI\obj\Debug\Library.WebUI.pdb
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\csc.exe
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\vbc.exe
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Library.WebUI.dll.config
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Library.WebUI.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Library.WebUI.pdb
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\EntityFramework.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Library.Domain.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Moq.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Ninject.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Helpers.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Mvc.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Razor.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Webpages.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\WebActivator.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Library.Domain.pdb
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\EntityFramework.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Moq.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Ninject.pdb
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Ninject.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Ninject.Web.Common.pdb
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Razor.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Webpages.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Helpers.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\System.Web.Mvc.xml
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\obj\Debug\Library.WebUI.csprojResolveAssemblyReference.cache
+C:\Users\золотарев\Desktop\Library\Library.WebUI\obj\Debug\Library.WebUI.dll
+C:\Users\золотарев\Desktop\Library\Library.WebUI\obj\Debug\Library.WebUI.pdb
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\csc.exe
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\vbc.exe
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Library.WebUI.dll.config
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Library.WebUI.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Library.WebUI.pdb
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Antlr3.Runtime.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\EntityFramework.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Library.Domain.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.Owin.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Moq.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Newtonsoft.Json.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Ninject.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Ninject.Web.Common.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Owin.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Helpers.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Mvc.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Optimization.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Razor.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Webpages.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\WebActivator.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\WebGrease.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Library.Domain.pdb
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Antlr3.Runtime.pdb
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\EntityFramework.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.Owin.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Moq.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Newtonsoft.Json.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Ninject.pdb
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Ninject.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Ninject.Web.Common.pdb
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Ninject.Web.Common.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Optimization.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Razor.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Webpages.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Helpers.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\System.Web.Mvc.xml
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\obj\Debug\Library.WebUI.csprojResolveAssemblyReference.cache
+C:\Программирование\Работа\Временные\Library\Library.WebUI\obj\Debug\Library.WebUI.dll
+C:\Программирование\Работа\Временные\Library\Library.WebUI\obj\Debug\Library.WebUI.pdb
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\csc.exe
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\vbc.exe
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\VBCSCompiler.exe
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Library.WebUI.dll.config
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Library.WebUI.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Library.WebUI.pdb
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Antlr3.Runtime.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\EntityFramework.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Library.Domain.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.Owin.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.Owin.Security.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Moq.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Newtonsoft.Json.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Ninject.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Ninject.Web.Common.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Owin.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Helpers.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Mvc.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Optimization.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Razor.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Webpages.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\WebActivator.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\WebGrease.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Library.Domain.pdb
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Antlr3.Runtime.pdb
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\EntityFramework.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.Owin.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.Owin.Security.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Moq.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Newtonsoft.Json.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Ninject.pdb
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Ninject.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Ninject.Web.Common.pdb
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Ninject.Web.Common.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Ninject.Web.Mvc.pdb
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Optimization.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Razor.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Webpages.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Helpers.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\System.Web.Mvc.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\ru\System.Web.Razor.resources.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\ru\System.Web.Webpages.resources.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\ru\System.Web.Webpages.Deployment.resources.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\ru\System.Web.Webpages.Razor.resources.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\ru\System.Web.Helpers.resources.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\ru\System.Web.Mvc.resources.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\obj\Debug\Library.WebUI.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\obj\Debug\Library.WebUI.pdb
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\bin\Library.Domain.dll.config
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\obj\Debug\Library.WebUI.csprojAssemblyReference.cache
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\obj\Debug\Library.WebUI.csproj.CoreCompileInputs.cache
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.WebUI\obj\Debug\Library.WebUI.csproj.CopyComplete

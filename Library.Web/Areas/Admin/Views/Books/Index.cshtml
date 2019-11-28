@@ -1,0 +1,46 @@
+﻿@model IEnumerable<Library.Domain.Entities.Book>
+
+@{
+    ViewBag.Title = "Админ панель: список книг";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>Список книг</h3>
+        @Html.ActionLink("Домой", "List", "Books", new { area="" }, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Авторы", "Index", "Authors", null, new { @class = "btn btn-success" })
+        @Html.ActionLink("Жанры", "Index", "Genres", null, new { @class = "btn btn-success" })
+    </div>
+    <div class="panel-body">
+        <table class="table table-striped table-condensed table-bordered">
+            <tr>
+                <th class="text-right">ID</th>
+                <th>Название</th>
+                <th class="text-right">Год</th>
+                <th class="text-center">Действия</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="text-right">@item.ID_BOOK</td>
+                    <td>@Html.ActionLink(item.NAME_BOOK, "Edit", new { item.ID_BOOK })</td>
+                    <td class="text-right">@item.genre_books.NAME_GENRE</td>
+                    <td class="text-center">
+                        @using (Html.BeginForm("Delete", "Books"))
+                        {
+                            @Html.Hidden("ID_BOOK", item.ID_BOOK)
+                            <input type="submit"
+                                   class="btn btn-default btn-xs"
+                                   value="Удалить" />
+                        }
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+    <div class="panel-footer">
+        @Html.ActionLink("Добавить книгу", "Create", null,
+            new { @class = "btn btn-default" })
+    </div>
+</div>

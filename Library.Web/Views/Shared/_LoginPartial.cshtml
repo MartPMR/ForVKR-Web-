@@ -1,0 +1,27 @@
+﻿@using Microsoft.AspNet.Identity
+@if (Request.IsAuthenticated)
+{
+    <ul class="navbar-form navbar-right">
+        <li><a href="#">@User.Identity.GetUserName()</a></li>
+        <li>@Html.ActionLink("Выход", "LogOff", "Account")</li>
+    </ul>
+
+    @*<form class="navbar-form navbar-right" action="/Account/LogOff">
+            <div class="input-group">
+                <input class="form-control" value="@User.Identity.GetUserName()" readonly="readonly" />
+                <span class="input-group-addon" style="cursor:pointer ">
+                    <span class="glyphicon glyphicon-log-out"></span>
+                </span>
+            </div>
+            @Html.AntiForgeryToken()
+        </form>*@
+    @*@Html.ActionLink(User.Identity.GetUserName() + "!", "Index", "Manage", routeValues: null, htmlAttributes: new { title = "Manage" }) *@
+
+}
+else
+{
+    <ul class="navbar-form navbar-right">
+        <li>@Html.ActionLink("Регистрация", "Register", "Account", routeValues: null, htmlAttributes: new { id = "registerLink" })</li>
+        <li>@Html.ActionLink("Войти", "Login", "Account", routeValues: null, htmlAttributes: new { id = "loginLink" })</li>
+    </ul>
+}

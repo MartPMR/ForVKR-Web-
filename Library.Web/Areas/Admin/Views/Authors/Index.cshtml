@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Library.Domain.Entities.Author>
+@{
+    ViewBag.Title = "Админ панель: список товаров";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <h3>Список авторов</h3>
+        @Html.ActionLink("Домой", "List", "Books", new { area = "" }, new { @class = "btn btn-primary" })
+        @Html.ActionLink("Книги", "Index", "Books", null, new { @class = "btn btn-success" })
+        @Html.ActionLink("Жанры", "Index", "Genres", null, new { @class = "btn btn-success" })
+    </div>
+    <div class="panel-body">
+        <table class="table table-striped table-condensed table-bordered">
+            <tr>
+                <th class="text-right">ID Автора</th>
+                <th class="text-right">Фамилия</th>
+                <th class="text-right">Имя</th>
+                <th class="text-right">Отчество</th>
+                <th class="text-right">Дата рождения</th>
+                <th class="text-right">Страна</th>
+                <th class="text-center">Действия</th>
+            </tr>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td class="text-right">@item.ID_AUTHOR</td>
+                    <td>@Html.ActionLink(item.A_FIRST_NAME, "Edit", new { item.ID_AUTHOR })</td>
+                    <td class="text-right">@item.A_NAME</td>
+                    <td class="text-right">@item.A_PATRONYMIC</td>
+                    <td class="text-right">@item.A_DATE_BIRTH</td>
+                    <td class="text-right">@item.A_COUNTRY</td>
+
+                    <td class="text-center">
+                        @using (Html.BeginForm("DeleteAuthor", "Authors"))
+                        {
+                            @Html.Hidden("ID_AUTHOR", item.ID_AUTHOR)
+                            <input type="submit"
+                                   class="btn btn-default btn-xs"
+                                   value="Удалить" />
+                        }
+                    </td>
+                </tr>
+            }
+        </table>
+    </div>
+    <div class="panel-footer">
+        @Html.ActionLink("Добавить автора", "Create", null, new { @class = "btn btn-default" })
+    </div>
+</div>

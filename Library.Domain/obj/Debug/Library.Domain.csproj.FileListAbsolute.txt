@@ -1,0 +1,117 @@
+C:\Library\DB\Library\Library.Domain\bin\Debug\Library.Domain.dll.config
+C:\Library\DB\Library\Library.Domain\bin\Debug\Library.Domain.dll
+C:\Library\DB\Library\Library.Domain\bin\Debug\Library.Domain.pdb
+C:\Library\DB\Library\Library.Domain\bin\Debug\EntityFramework.dll
+C:\Library\DB\Library\Library.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Library\DB\Library\Library.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.Razor.dll
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Library\DB\Library\Library.Domain\bin\Debug\EntityFramework.xml
+C:\Library\DB\Library\Library.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.Razor.xml
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Library\DB\Library\Library.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Library\DB\Library\Library.Domain\obj\Debug\Library.Domain.csprojResolveAssemblyReference.cache
+C:\Library\DB\Library\Library.Domain\obj\Debug\Library.Domain.dll
+C:\Library\DB\Library\Library.Domain\obj\Debug\Library.Domain.pdb
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\Library.Domain.dll.config
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\Library.Domain.dll
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\Library.Domain.pdb
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\EntityFramework.dll
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\EntityFramework.xml
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\золотарев\Desktop\Library\Library.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\золотарев\Desktop\Library\Library.Domain\obj\Debug\Library.Domain.csprojResolveAssemblyReference.cache
+C:\Users\золотарев\Desktop\Library\Library.Domain\obj\Debug\Library.Domain.dll
+C:\Users\золотарев\Desktop\Library\Library.Domain\obj\Debug\Library.Domain.pdb
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\Library.Domain.dll.config
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\Library.Domain.dll
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\Library.Domain.pdb
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\EntityFramework.dll
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.Razor.dll
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\EntityFramework.xml
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.Razor.xml
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Программирование\Работа\Временные\Library\Library.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Программирование\Работа\Временные\Library\Library.Domain\obj\Debug\Library.Domain.csprojResolveAssemblyReference.cache
+C:\Программирование\Работа\Временные\Library\Library.Domain\obj\Debug\Library.Domain.dll
+C:\Программирование\Работа\Временные\Library\Library.Domain\obj\Debug\Library.Domain.pdb
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\Library.Domain.dll.config
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\Library.Domain.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\Library.Domain.pdb
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\EntityFramework.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.Razor.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\EntityFramework.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.Razor.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\obj\Debug\Library.Domain.dll
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\obj\Debug\Library.Domain.pdb
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\obj\Debug\Library.Domain.csproj.CoreCompileInputs.cache
+C:\Программирование\Работа\ВЕБ\Курсовая - магазин Library\Library.Domain\obj\Debug\Library.Domain.csproj.CopyComplete
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\Library.Domain.dll.config
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\Library.Domain.dll
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\Library.Domain.pdb
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\EntityFramework.dll
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.Helpers.dll
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.Mvc.dll
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.Razor.dll
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.WebPages.dll
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\EntityFramework.xml
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.Helpers.xml
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.Mvc.xml
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.Razor.xml
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.WebPages.xml
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Win10Pro\Desktop\Library.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Win10Pro\Desktop\Library.Domain\obj\Debug\Library.Domain.csprojAssemblyReference.cache
+C:\Users\Win10Pro\Desktop\Library.Domain\obj\Debug\Library.Domain.csproj.CopyComplete
+C:\Users\Win10Pro\Desktop\Library.Domain\obj\Debug\Library.Domain.dll
+C:\Users\Win10Pro\Desktop\Library.Domain\obj\Debug\Library.Domain.pdb

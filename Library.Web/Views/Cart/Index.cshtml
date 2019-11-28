@@ -1,0 +1,57 @@
+﻿@model Library.Web.Models.CartIndexViewModel
+
+@{
+    ViewBag.Title = "Библиотека: ваша корзина";
+}
+
+<style>
+    #cartTable td {
+        vertical-align: middle;
+    }
+</style>
+
+<h2>Ваша корзина</h2>
+<table id="cartTable" class="table">
+    <thead>
+        <tr>
+            <th>Кол-во</th>
+            <th>Книга</th>
+            <th class="text-right">Год издания</th>
+            <th class="text-right">Жанр</th>
+            <th class="text-right">Код жанра</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var line in Model.Cart.Lines)
+        {
+            <tr>
+                <td class="text-center">@line.Quantity</td>
+                <td class="text-left">@line.book.NAME_BOOK</td>
+                <td class="text-right">@line.book.YEAR_PUB</td>
+                <td class="text-right">@line.book.genre_books.NAME_GENRE</td>
+                <td class="text-right">@line.book.GENRE_ID</td>
+                <td>
+                    @using (Html.BeginForm("RemoveFromCart", "Cart"))
+                    {
+                        @Html.Hidden("ID_BOOK", line.book.ID_BOOK)
+                        @Html.HiddenFor(x => x.ReturnUrl)
+                        <input class="btn btn-sm btn-warning" type="submit" value="Удалить" />
+                    }
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="4" class="text-right">Итого:</td>
+            <td class="text-right">
+                @Model.Cart.Lines.Count()
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+<div class="text-center">
+    <a class="btn btn-primary" href="@Model.ReturnUrl">Продолжить покупки</a>
+    @Html.ActionLink("Оформить заказ", "Checkout", null, new { @class = "btn btn-primary" })
+</div>

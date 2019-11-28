@@ -1,0 +1,18 @@
+﻿@model Library.Domain.Entities.Book
+
+<div class="well">
+    <h3>
+        <strong>@Model.NAME_BOOK</strong>
+        <span class="pull-right label label-primary">@Model.genre_books.NAME_GENRE</span>
+    </h3>
+    @using (Html.BeginForm("AddToCart", "Cart"))
+    {
+        <div class="pull-right">
+            @Html.HiddenFor(x => x.ID_BOOK)
+            @Html.Hidden("returnUrl", Request.Url.PathAndQuery)
+            <input type="submit" class="btn btn-success" value="Добавить в корзину" />
+        </div>
+    }
+    <span class="lead">Автор:@Model.author_books.A_FIRST_NAME @Model.author_books.A_NAME  @Model.author_books.A_PATRONYMIC</span><br />
+    <span class="lead">выпуск:@Model.YEAR_PUB г.</span>
+</div>

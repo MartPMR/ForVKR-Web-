@@ -1,0 +1,22 @@
+﻿@using Library.Web.Models
+@using Library.Web.HtmlHelpers
+@model BooksListViewModel
+@{
+    ViewBag.Title = "Книги";
+}
+
+@if (Model.bookList.Count() == 0)
+{
+    <div class="alert alert-danger">
+        Указанынй перечень книг ненайден!
+    </div>
+}
+
+@foreach (var p in @Model.bookList)
+{
+    @Html.Partial("BookSum", p)
+}
+
+<div class="btn-group pull-right">
+    @Html.PageLinks(Model.PagingInfo, x => Url.Action("List", new { page = x, genre = Model.CurrentGenre }))
+</div>
